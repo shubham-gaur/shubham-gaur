@@ -1,5 +1,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/25580770/206797530-b13519c7-0462-4e9a-ace6-e9b801d70f70.png" alt="">
 
+// Projects Migrated To -> https://gitlab.com/shubham-gaur
+
 - 👋 Hi, I’m @shubham-gaur
 - 👀 I’m interested in coding and writing technical articles...
 - 🌱 I’m currently learning rust 🦀
